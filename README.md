@@ -1,1 +1,1 @@
-# Open-Jobs-Application
+# Open-Jobs-Application--“Open-Jobs” is an open job listing app for posting jobs instantly where users can post job openings as well as they can view the posted ones. It is an application which connects employers and job seekers.
